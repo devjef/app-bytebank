@@ -4,7 +4,7 @@
 
 ## Como rodar o projeto?
 
-Após baixar o projeto, acesse ele via seu terminal rode os comandos:
+Após baixar o projeto, acesse ele via seu terminal e rode os comandos:
 
 ```sh
 node ./index.js
